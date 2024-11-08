@@ -1,0 +1,32 @@
+.numba1{
+    background-color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+#numba2{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+.cooler{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#numba4{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:lighter
+}
+
+.numba5{
+    background-color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:bold
+}
